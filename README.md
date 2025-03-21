@@ -8,4 +8,4 @@ A simple Python-based keylogger designed to capture and log keystrokes. This pro
 1. To get the requirements use ```git clone https://github.com/nikossotirakis/KeyCaptureTool```
 2. Run the command ```pip install -r requirements.txt``` to install all the packages required in your computer.
 
-~ Once exacuted press "Esc" to terminate the program :)
+To terminate the program press "Esc".
